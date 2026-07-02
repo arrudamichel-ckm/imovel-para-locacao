@@ -10,8 +10,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Casa Residencial Moderna | Imóvel para Locação',
+  description:
+    'Casa térrea moderna com 3 quartos, 2 banheiros e 2 vagas no Bairro Jardim, São Paulo. Aluguel de R$ 2.500/mês. Agende uma visita pelo WhatsApp.',
   generator: 'v0.app',
   icons: {
     icon: [
